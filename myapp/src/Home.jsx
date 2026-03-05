@@ -6,7 +6,7 @@ const Home = () => {
   return (
    <>
    <NavLink to="/student_list">
-  <button>Student List</button>
+  <button>Student  Data List</button>
    </NavLink>
    </>
   )
